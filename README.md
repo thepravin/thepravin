@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **B.Tech**
 
-- 📝 I regularly write articles on [https://pravin28n.hashnode.dev/](https://pravin28n.hashnode.dev/)
+- 📝 I regularly write articles on [https://thepravin.hashnode.dev/](https://thepravin.hashnode.dev/)
 
 - 📫 How to reach me **pravinonline05@gmail.com**
 
