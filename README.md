@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **B.Tech**
 
-- 📝 I regularly write articles on [https://thepravin.hashnode.dev/](https://thepravin.hashnode.dev/)
-
 - 📫 How to reach me **thepravin28@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
